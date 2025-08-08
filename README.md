@@ -20,15 +20,19 @@ Built using Power BI, it helps identify the most common content types and suppor
 ✅ Content Type Analysis
 * Shows the proportion of Movies vs TV Shows
 * Useful to identify platform focus
+  
 ✅ Release Year Trend
 * Tracks how content volume has changed over the years
 * Highlights production or acquisition trends
+  
 ✅ Country-wise Content Distribution
 * Maps the number of titles produced by each country
 * Identifies top content-producing regions (e.g., US, India)
+  
 ✅ Rating & Duration Insights
 * Analyzes TV Ratings (e.g., TV-MA, PG-13) and average duration of content
 * Helps profile target audience by age suitability
+  
 ✅ Interactive Filters & Slicers
 * Filter by year, genre, country, or type
 * Allows users to explore content as per their interest
