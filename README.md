@@ -4,10 +4,13 @@ I developed a comprehensive project in Excel, creating multiple dashboard and ta
 ## 📸 Dashboard Preview
 <img width="869" height="487" alt="Screenshot 2025-08-08 160902" src="https://github.com/user-attachments/assets/895df3fb-277d-42c3-919c-c9ea73ec77ef" />
 
-## Overview
-📊 Netflix Data Analysis Dashboard
+## 🔍 Overview 
+🎬 Netflix Data Analysis Dashboard
 This project analyzes Netflix content to uncover trends in genres, release years, and content ratings.
 Built using Power BI, it helps identify the most common content types and supports data-driven viewing insights. 🍿📺
+
+## 🎯 Dashboard Interection 
+<a href="https://github.com/Subhadhanush-R/Netflix-Analysis-/blob/main/Netflix_Analysis.pbix">View Dashboard</a>
 
 ## 📊 Key Features of the Netflix Dashboard
 ✅ Genre & Category Breakdown
