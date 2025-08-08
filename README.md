@@ -16,6 +16,7 @@ Built using Power BI, it helps identify the most common content types and suppor
 ✅ Genre & Category Breakdown
 * Visualizes the most common genres (e.g., Drama, Comedy, Action)
 * Helps understand content diversity and viewer preferences
+  
 ✅ Content Type Analysis
 * Shows the proportion of Movies vs TV Shows
 * Useful to identify platform focus
