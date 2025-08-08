@@ -43,6 +43,7 @@ Built using Power BI, it helps identify the most common content types and suppor
  * Visuals Used: Bar Chart, Donut Chart, Area Chart, Map Visual, Card Visuals, Slicers
 
 ## 👨‍💻 Author
+Subhadhanush 
 📌 Data Analyst Enthusiast | Power BI Learner | Dashboard Creator
 
 ## 🌟 If you like this project, don’t forget to ⭐ the repo!
